@@ -1,7 +1,7 @@
 ---
 title: "LinuxでCPU使用率を上げる"
 date: 2019-07-21T16:32:33+09:00
-draft: true
+draft: false
 categories:
 tags:
 - linux
