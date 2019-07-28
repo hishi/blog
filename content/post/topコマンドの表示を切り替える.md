@@ -2,7 +2,7 @@
 title: "topコマンドの表示を切り替える"
 date: 2019-07-21T15:14:26+09:00
 categories:
-draft: true
+draft: false
 tags:
 - linux
 - top
